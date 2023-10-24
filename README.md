@@ -2,7 +2,7 @@
 <h3 align="center">Novice programmer, I have always been fascinated by the world of programming and videogame development. Currently I study Computer Sciences at UNRC</h3>
 <!-- 🏗️ I'm currently working on a [}( ) -->
   
-📚 I am taking my first steps as a programmer, focusing on being a Full-Stack developer. At Universidad Nacional de Rio Cuarto (https://www.unrc.edu.ar) I am continually improving my programming aptitudes and analytical thinking, and I am excited about applying them to imaginative and challenging projects.
+📚 I am taking my first steps as a programmer, focusing on being a Full-Stack developer. At [Universidad Nacional de Rio Cuarto] (https://www.unrc.edu.ar) I am continually improving my programming aptitudes and analytical thinking, and I am excited about applying them to imaginative and challenging projects.
 
 🔌 I have a deep passion for the world of videogames and their development, I would love to create a game that provides unique experiences for the player.
 
