@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello stranger! I'm Matias Alanis</h1> 
+<h3 align="center">Novice programmer, I have always been fascinated by the world of programming and videogame development. Currently I study Computer Sciences at UNRC</h3>
+<!-- 🏗️ I'm currently working on a [}( ) -->
+  
+📚 I am taking my first steps as a programmer, focusing on being a Full-Stack developer. At Universidad Nacional de Rio Cuarto (https://www.unrc.edu.ar) I am continually improving my programming aptitudes and analytical thinking, and I am excited about applying them to imaginative and challenging projects.
 
-<!--
-**Matias-Alanis/Matias-Alanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔌 I have a deep passion for the world of videogames and their development, I would love to create a game that provides unique experiences for the player.
 
-Here are some ideas to get you started:
+🎓 Additionally, you can explore my university projects, spanning a variety of languages such as C, Python, Java, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Remember that this is a work in progress and I'll try my best to reach a desired programming seniority. 
+
+📫 You can contact me by email at matias.alanis.job@gmail.com or by [my linkedin](https://www.linkedin.com/in/matiasalanis/) for any inquiries or collaboration opportunities.
+
+Thank you for being here! Have a nice day!
